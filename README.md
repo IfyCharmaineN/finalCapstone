@@ -17,7 +17,7 @@ Run the application: python app.py
 
 Admin Access:
 Username: admin
-Password: admin123
+Password: password
 Reports and Stats:
 Access the /admin route for admin features
 Generate detailed reports and view task completion statistics
