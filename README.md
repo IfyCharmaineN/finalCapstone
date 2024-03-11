@@ -9,7 +9,7 @@ Admin Functionality:
 Generate Detailed Reports
 Display Statistics for All Users
 
-Usage:
+Installation & Usage:
 Clone the repository
 Set up the virtual environment
 Install dependencies: pip install -r requirements.txt
