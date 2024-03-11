@@ -1,0 +1,19 @@
+USER OVERVIEW
+2024-03-0813:29
+Total number of users = 3
+------------------------------
+User: admin
+Total number of completed tasks = 0
+Total number of incomplete tasks = 1 | 100.0%
+Total number of overdue tasks = 1 | 100.0
+------------------------------
+User: IfyCharmaineN
+Total number of completed tasks = 1
+Total number of incomplete tasks = 1 | 50.0%
+Total number of overdue tasks = 1 | 50.0
+------------------------------
+User: Gopul
+Total number of completed tasks = 0
+Total number of incomplete tasks = 1 | 100.0%
+Total number of overdue tasks = 0 | 0.0
+------------------------------

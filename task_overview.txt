@@ -1,0 +1,38 @@
+TASK OVERVIEW
+
+2024-03-0813:29
+
+--------------------------------------------------------------------------------
+All tasks: 
+--------------------------------------------------------------------------------
+Total number of tasks = 4
+Total number of completed tasks = 1
+Total number of incomplete tasks = 4 | 100.0%
+Total number of overdue tasks = 2 | 50.0
+--------------------------------------------------------------------------------
+User assigned tasks and details: 
+--------------------------------------------------------------------------------
+Title: Add functionality to task manager
+Assigned to: admin
+Status: Incomplete
+Due Date: 2022-12-01
+Description: Add additional options and refactor the code.
+--------------------------------------------------------------------------------
+Title: Task 17
+Assigned to: IfyCharmaineN
+Status: Incomplete
+Due Date: 2024-03-01
+Description: Capstone
+--------------------------------------------------------------------------------
+Title: Be happy
+Assigned to: IfyCharmaineN
+Status: Completed
+Due Date: 2024-03-07
+Description: You're blessed
+--------------------------------------------------------------------------------
+Title: Driving Instructing
+Assigned to: Gopul
+Status: Incomplete
+Due Date: 2024-04-13
+Description: Get me my license
+--------------------------------------------------------------------------------
